@@ -1,0 +1,2 @@
+Belajar FS module Node.js
+Aku udah bisa baca-tulis file tanpa bingung!
